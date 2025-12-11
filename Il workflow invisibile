@@ -1,0 +1,139 @@
+Oggi con le AI “basta un prompt”, qualche parola messa giù bene, dieci secondi di attesa e l’immagine arriva. Ma fra una bella immagine e un visual che funziona davvero in una campagna c’è un intero processo di lavoro strutturato che non si vede, nascosto prima e dopo quei dieci secondi.
+
+La generazione sì, è istantanea. La direzione che porta lì, no.
+
+Quello che condivido qui è il workflow che applico ogni giorno: un processo in otto fasi che unisce metodo analogico, occhio critico e strumenti AI.Uno spunto per chi sta ridefinendo il proprio processo nell’era ibridata? Magari!
+
+1. Leggere il brief, leggerlo veramente
+
+Sembra banale ma la prima cosa da fare è leggere il brief dall’inizio alla fine.Non chiedere subito all’AI di “riassumerlo”: lo farai dopo, ma mai prima.
+
+Questa fase serve a entrare nel progetto, assorbire il contesto ed è indispensabile per mantenere attiva la capacità di interpretazione per ciò che conta davvero. È qui che si decide la qualità di tutte le scelte successive.
+
+La tecnologia può sintetizzare, ma non può sostituire la comprensione.Il brief va interpretato, non delegato.
+
+2. “Pulire” il brief con l’AI, ma senza accettare tutto sulla fiducia
+
+Una volta acquisiti i contenuti del brief, entra in gioco l’AI linguistica. Io uso prompt mirati per:
+
+sintetizzare dati,
+
+mettere a fuoco criticità,
+
+far emergere insight,
+
+ripulire il testo da “rumore” e ridondanze.
+
+L’obiettivo: trasformare il brief da documento “statico” a base operativa per il brainstorming. È essenziale, però, ricordare che il modello può “allucinare” dati mancanti colmando i vuoti informativi con i dati più plausibili statisticamente.
+
+Per esempio, se il brief non specifica il canale d’acquisto del target, l’AI sceglierà quello più probabile, in modo credibile, coerente… e totalmente falso. E si rischia di costruire un’intera campagna su un’informazione inventata.
+
+Per questo ogni sintesi va letta, corretta, verificata, blindata.
+
+Usare l’AI per ordinare il brief, non per decidere cosa è vero. Il modello non ragiona mai nel merito del contenuto: prevede e calcola sulla base delle statistiche.
+
+3. Fare brainstorming: formare la macchina come un assistente creativo
+
+Quando gli insight sono chiari e i confini sono definiti, si può iniziare un brainstorming assistito. Qui l’assistente AI diventa un alleato prezioso, soprattutto se lavori in autonomia: è disponibile sempre, instancabile e può generare volumi enormi di contenuti.
+
+Ma per ottenere stimoli creativi utili, l’assistente deve essere “formato” e alimentato fornendogli: 
+
+contesto
+
+riferimenti
+
+obiettivi
+
+limiti
+
+tono
+
+linguaggio
+
+Un modello generico produce idee generiche, buone per chiunque e quindi inutili per le esigenze specifiche di un determinato cliente. Solo un assistente allenato sul progetto restituisce input che hanno un senso strategico.
+
+Con il giusto addestramento, questa fase è estremamente produttiva: esplodono metafore, angoli narrativi, direzioni visive, ipotesi.  Ma è proprio l’educazione preliminare dell’AI a determinare la qualità del risultato: senza quella, il brainstorming diventa rumore; con quella, diventa valore.
+
+Non chiedere alla macchina “dammi delle idee su X”: forma l’assistente sul tuo progetto come faresti con una persona vera.
+
+4. Dall’idea plausibile all’idea viva: selezione, stress test e refining
+
+Sono tutte buone le idee generate? Ovviamente no. Tra 50 idee ce ne sono 40 plausibili, 8 formalmente corrette, 2 interessanti… e forse 1 che può andare avanti.È fondamentale quindi selezionare, tagliare, rifinire…Io chiedo alla macchina di:
+
+simulare obiezioni dei consumatori
+
+confrontare i concept con i competitor
+
+spingere soluzioni oltre la plausibilità
+
+cambiare tono, prospettiva, metafora
+
+Non basta chiedere “rendilo più engaging”: è un lavoro fatto di botta e risposta, in cui si mescolano toni, si cambiano punti di vista, finché non si intravede quel “qualcosa” che merita di avanzare.
+
+L’AI non va semplicemente interrogata: va contraddetta e stressata. Il non visto nasce dove smetti di accontentarti della prima idea plausibile.
+
+5. Pensare cosa disegnare: progettare il Key Visual a parole
+
+Quando le direzioni creative sono chiare, si passa alla progettazione del Key Visual.Non è ancora il momento di generare immagini: è il momento di scrivere ciò che si vuole vedere, descrivendo una scena potenziale completa.
+
+Si lavora su:
+
+soggetto principale ed eventuali soggetti secondari
+
+metafora visiva alla base della scena
+
+atmosfera e tono emotivo
+
+stile (fotografico, illustrato, ibrido)
+
+composizione (inquadratura, focus, gerarchie)
+
+dettagli tecnici (close-up, profondità di campo, direzione della luce)
+
+relazione tra soggetto e ambiente.
+
+Si resta su questo livello finché la descrizione non diventa solida, leggibile, pronta a essere tradotta in un prompt tecnico specifico per il modello di generazione di immagini scelto.
+
+Prima di aprire un generatore, è essenziale sapere esattamente cosa si vuole visualizzare:la qualità del visual nasce dalla chiarezza della descrizione, non dal tool.
+
+6. Tradurre la descrizione in prompt tecnico: parlare la lingua della macchina
+
+Una volta definita la scena, va tradotta nella lingua del modello visivo (es. midjourney o altro). Come?L’AI linguistica è particolarmente efficace perché sa “parlare” con i suoi colleghi meglio di noi, pulisce il testo, struttura i parametri e organizza le informazioni in modo che il generatore le possa interpretare al meglio. Il prompt tecnico diventa una versione ottimizzata della nostra intenzione visiva.
+
+Inoltre, costruire assistenti dedicati alla scrittura di prompt per ogni modello è utile per ottenere risultati coerenti con il proprio stile progettuale e non appiattiti su estetiche preconfezionate.
+
+Fatti aiutare dall’AI a scrivere prompt tecnici, ma mantieni il controllo sul linguaggio visivo. L’automatismo standard si riconosce sempre.
+
+7. Generazione, iterazione, scelta: il palleggio tra AI e occhio umano
+
+Grazie al prompt creato, il generatore di immagini produce le prime varianti, generalmente quattro. Di rado la prima serie coincide con l’obiettivo finale; nella maggior parte dei casi è solo un inizio.
+
+Da qui parte un palleggio continuo: il processo diventa una sequenza di iterazioni, analisi degli output, correzione del prompt, nuova generazione, ulteriore revisione.Si alternano AI linguistica e AI visiva in un dialogo incrociato fino a quando, tra la moltitudine di immagini simili tra loro, non ne emerge una che ha qualcosa in più che corrisponde all’intenzione del brief.
+
+La responsabilità della scelta è interamente nostra. Il modello non può decidere da solo: “questo è il visual giusto per questo brand, in questo momento, per questi obiettivi”.
+
+Non aspettarti che l’AI “ti dia” l’immagine perfetta. Considera ogni output come un round di iterazione verso una scelta che resta tua.
+
+8. Verifica tecnica e refining manuale: dal draft al Key Visual finale
+
+Quando un’immagine emerge come candidata, in realtà non è ancora pronta: è solo promettente.Inizia così una fase di verifica tecnica e qualitativa: si guarda l’alta risoluzione, si cercano artefatti, incoerenze, deformazioni. Si valuta la palette, il tono emotivo, l’aderenza alle linee guida del brand. Si controlla la brand safety, si esclude il rischio copyright.
+
+E poi arriva il momento che molti non si aspettano: il ritorno ai tool tradizionali.Photoshop, Illustrator, tipografia, composizione manuale… sono essenziali per il refining “manuale”. Qui si:
+
+correggono imperfezioni
+
+bilanciano i colori
+
+integrano logo e copy
+
+inseriscono i prodotti
+
+preparano i formati per stampa, web, social
+
+Solo dopo questi interventi il visual può essere considerato un vero Key Visual e non un bel “quadro di lontananza”.
+
+Considera l’immagine generata come un draft avanzato, non come il file finale. La professionalità sta nei passaggi che la rendono funzionale e coerente al 100% con il brand.
+
+Per riassumere: la generazione Ai di una immagine dura pochi secondi.Il workflow per arrivare a quella manciata di secondi richiede però tempo, metodo e competenze ibride. 
+
+Ed è in quel tempo che si concentra il valore di chi fa questo mestiere.
